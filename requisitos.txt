@@ -1,0 +1,11 @@
+- Interfaz
+- Seleccionar camara 
+- Mostrar camara tiempo real interfaz
+- Hacer una captura
+- Seleccionar funciones de procesamiento
+    - Binarizacion
+    - Apertura
+    - Cierre
+    - Convoluciones
+    - 
+- Seleccionar un treshold
